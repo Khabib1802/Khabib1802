@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I am a Frontend Developer focused on building responsive and user-friendly web applications using JavaScript, TypeScript, and React.
+I am a Frontend Developer focused on building responsive and user-friendly web applications using JavaScript and TypeScript.
 
 Currently, I am improving my frontend development skills, working on personal projects, and looking for opportunities to contribute to real-world products while growing as a developer.
 
