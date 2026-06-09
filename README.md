@@ -30,3 +30,7 @@ Currently, I am improving my frontend development skills, working on personal pr
 
 #### Hosting
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+[![Codewars](https://www.codewars.com/users/KhabibG/badges/large)](https://www.codewars.com/users/ВАШ_НИК_НА_CODEWARS)
